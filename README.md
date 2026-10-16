@@ -124,7 +124,7 @@ A Peer-to-Peer LAN was configured successfully using two PCs connected through a
 This lab demonstrates basic LAN setup, static IPv4 configuration, connectivity testing, and ARP-based address resolution. Both PCs can communicate because they belong to the same subnet and are connected through the Layer 2 switch.
 ## 👩‍💻 Author
 
-**Jeyapriya**
+**SELVALAKSHMI P**
 
 **Course:** B.Tech – Computer Science and Business Systems
 
